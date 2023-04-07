@@ -1,6 +1,6 @@
 Fecha: 6 abril 2023
 
-Para ejecutar directamente (y no desde otra terminal) codigo Python  mientras codificamos recomiendo usar el editor de codigo:
+Para ejecutar codigo python directamente (y no desde otra terminal) mientras codificamos recomiendo usar el editor de codigo:
 Sublime Text 4
 
 Para configurar Python en sublime Text seguimos los siguientes pasos desde la barra de tareas del programa:
